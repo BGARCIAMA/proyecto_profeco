@@ -84,4 +84,5 @@ Para esta parte se utilizó **Athena**.
 ![Athena](./imagenes/athena_b.png)
 
 * - 📓 Un cuaderno ejecutado con los resultados y el código con las preguntas y respuestas.
+  
   -[Resultados parte A](./3.%20Parte_A.ipynb)
