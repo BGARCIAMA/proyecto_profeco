@@ -59,8 +59,8 @@ Para esta parte se utilizó **Athena**.
 
 
 - Correr los scripts en el siguiente orden:
-  1. bash/limpieza.sh
-  2. bash/union.sh
+  1. [bash/limpieza.sh](bash/limpieza.sh)
+  2. [bash/union.sh](bash/union.sh)
   3. [Parte_A.ipynb](Parte_A.ipynb)
   4. [Parte_B.ipynb](Parte_B.ipynb)
 
