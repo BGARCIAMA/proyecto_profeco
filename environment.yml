@@ -1,0 +1,25 @@
+name: profeco_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - pandas
+  - numpy
+  - pytest
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - plotly
+  - ipyleaflet
+  - pylint
+  - autopep8
+  - joblib
+  - lxml
+  - boto3
+  - awswrangler
+  - pyathena
+  - beautifulsoup4
+  - requests
