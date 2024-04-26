@@ -9,7 +9,7 @@
 |----------------------------|--------|--------------------|----------------|
 | Blanca E. García Manjarrez | 118886 | bgarci11@itam.mx   |    BGARCIAMA   |
 | Iván García Alba           | 214549 | rgarc199@itam.mx   |    GARCIA889   |
-| Valeria Durán              | ###### | xxxxxxxx@itam.mx   |   xxxxxxxxxxx  |
+| Valeria Durán              | 124273 | vduranru@itam.mx   |    VDR90       |
 | Yuneri Pérez Arellano      | 199813 | yperezar@itam.mx   |    YunPerez    |
 
 
@@ -68,6 +68,7 @@ Para esta parte se utilizó **Athena**.
 # Entregables 💯
 
 * - 📸 Un screenshot de cómo se guardaron los archivos en S3, donde se vean las particiones.
+![Particiones S3](./imagenes/parquet_s3_a.png)
 * - 📸 Un screenshot del dashboard del cluster, donde se ve el nombre, el id del cluster, el DNS, y el tiempo de ejecución.
 * - 📸 Un screenshot del JupyterHub, donde se vea la dirección DNS (El URL).
 * - 📸 Un screenshot de la consola de Athena donde se ve la base de datos y la tabla de Profeco.
