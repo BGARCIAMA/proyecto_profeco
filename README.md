@@ -8,13 +8,10 @@
 | Nombre                     |  CU    | Correo Electrónico | Usuario Github |
 |----------------------------|--------|--------------------|----------------|
 | Blanca E. García Manjarrez | 118886 | bgarci11@itam.mx   |    BGARCIAMA   |
-|----------------------------|--------|--------------------|----------------|
 | Iván García                | ###### | xxxxxxxx@itam.mx   |   xxxxxxxxxxx  |
-|----------------------------|--------|--------------------|----------------|
 | Valeria Durán              | ###### | xxxxxxxx@itam.mx   |   xxxxxxxxxxx  |
-|----------------------------|--------|--------------------|----------------|
 | Yuneri Pérez Arellano      | 199813 | yperezar@itam.mx   |    YunPerez    |
-|----------------------------|--------|--------------------|----------------|
+
 
 
 # Contexto  🧠
@@ -46,7 +43,7 @@
 * - Se cargó el CSV en Spark.
 * - Se guardó el CSV como parquet en S3, y se particionó por `catalogo` y `año`.
 * - Se cargó el parquet en Spark.
-* - Y se hizó el análisis solicitado en las instrucciones [tarea.md](tarea.md).
+* - Y se hizó el análisis solicitado en las instrucciones [instrucciones-proyecto-parcial.md](instrucciones-proyecto-parcial.md).
  
 ## Parte B 📑
 Para esta parte se utilizó **Athena**. 
@@ -54,5 +51,24 @@ Para esta parte se utilizó **Athena**.
 * - Se creó una base de datos `profeco_db` en Athena.
 * - Así como una tabla externa `profeco` dentro de la base de datos profeco_db.
 
+## Requerimientos de Software herramientas recomendadas
 
+1. [Cuenta de Github](https://github.com)
+2. [VSCodeIDE](https://code.visualstudio.com)
+3. [AWS](https://aws.amazon.com)
+
+
+- Correr los scripts en el siguiente orden:
+  1. bash/limpieza.sh
+  2. bash/union.sh
+  3. [Parte_A.ipynb] (Parte_A.ipynb)
+  4. [Parte_B.ipynb] (Parte_B.ipynb)
+
+# Entregables 💯
+
+* - 📸 Un screenshot de cómo se guardó los archivos en S3, donde se ven las particiones.
+* - 📸 Un screenshot del dashboard del cluster, donde se ve el nombre, el id del cluster, el DNS, y el tiempo de ejecución.
+* - 📸 Un screenshot del JupyterHub, donde se vea la dirección DNS (El URL).
+* - 📸 Un screenshot de la consola de Athena donde se ve la base de datos y la tabla de Profeco.
+* - 📓 Un cuaderno ejecutado con los resultados y el código con las preguntas y respuestas.
 
