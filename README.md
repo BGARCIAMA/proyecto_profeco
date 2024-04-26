@@ -59,10 +59,11 @@ Para esta parte se utilizó **Athena**.
 
 
 - Correr los scripts en el siguiente orden:
-  1. [bash/limpieza.sh](bash/limpieza.sh)
-  2. [bash/union.sh](bash/union.sh)
-  3. [Parte_A.ipynb](Parte_A.ipynb)
-  4. [Parte_B.ipynb](Parte_B.ipynb)
+  1. [0.WebScrapping.ipynb](0.WebScrapping.ipynb) 
+  2. [bash/1.limpieza.sh](bash/1.limpieza.sh)
+  3. [bash/2.union.sh](bash/2.union.sh)
+  4. [3.Parte_A.ipynb](3.Parte_A.ipynb)
+  5. [4.Parte_B.ipynb](4.Parte_B.ipynb)
 
 # Entregables 💯
 
