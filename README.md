@@ -63,7 +63,8 @@ Para esta parte se utilizó **Athena**.
   2. [bash/1.limpieza.sh](bash/1.limpieza.sh)
   3. [bash/2.union.sh](bash/2.union.sh)
   4. [3.Parte_A.ipynb](3.Parte_A.ipynb)
-  5. [4.Parte_B.ipynb](4.Parte_B.ipynb)
+  5. [4.Parquet_basicos.ipynb](4.Parquet_basicos.ipynb)
+  6. [5.Parte_B.ipynb](5.Parte_B.ipynb)
 
 # Entregables 💯
 
@@ -85,4 +86,5 @@ Para esta parte se utilizó **Athena**.
 
 * - 📓 Un cuaderno ejecutado con los resultados y el código con las preguntas y respuestas.
   
-  -[Resultados parte A](./3.%20Parte_A.ipynb)
+  -[Resultados parte A](./3.Parte_A.ipynb)
+  -[Resultados parte B](./5.Parte_B.ipynb)
